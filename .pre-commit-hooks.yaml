@@ -1,7 +1,7 @@
 ---
 - id: cdk-synth
-  name: cdk synth
-  entry: cdk synth
+  name: npx cdk synth
+  entry: npx cdk synth
   language: system
   files: '^.+\.(py|ts|js|cs|fs|java)'
   pass_filenames: false
